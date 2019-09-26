@@ -219,4 +219,4 @@ Neo4j graph database.
 
 This listed is forked from the excellent list originally created (but, apparently, no longer maintained) by [Neueda R&D](https://github.com/Neueda). 
 
-To the extent possible under law, both Nueda R&D, and Anthony Gatlin have waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, both Nueda R&D and Anthony Gatlin have waived all copyright and related or neighboring rights to this work.
