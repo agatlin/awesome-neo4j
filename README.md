@@ -11,7 +11,7 @@ Sharing, suggestions and contributions are always welcome!
 
 Thanks to all [contributors](https://github.com/Neueda/awesome-neo4j/graphs/contributors).
 
-Maintained by [Neueda R&D](http://labs.neueda.com/).
+Maintained by [Anthony Gatlin](//https://github.com/agatlin).
 
 Table of Contents
 =================
@@ -217,4 +217,6 @@ Neo4j graph database.
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Neueda R&D](https://github.com/Neueda) has waived all copyright and related or neighboring rights to this work.
+This listed is forked from the excellent list originally created (but, apparently, no longer maintained) by [Neueda R&D](https://github.com/Neueda). 
+
+To the extent possible under law, both Nueda R&D, and Anthony Gatlin have waived all copyright and related or neighboring rights to this work.
